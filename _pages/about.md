@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Shanghai Jiao Tong University, Shanghai, China
+subtitle: School of Media and Communicaiton, Shanghai Jiao Tong University, Shanghai, China
 
 profile:
   align: right
